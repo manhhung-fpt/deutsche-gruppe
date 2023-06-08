@@ -24,12 +24,14 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
             <span>ELEVATE YOUR BUSINESS WITH</span>
           </div>
           <div className="offcanvas-logo pb-30 pt-30">
-            <img src="assets/img/logo/logo.png" alt="" />
+            <img src="assets/img/logo/logo-deutsche.png" alt="" />
           </div>
           <div className="offcanva-details">
             <p>
-              Limitless customization options & Elementor compatibility let
-              anyone create a beautiful website with Valiance.
+              Welcome to Deutsche Gruppe LLC, an investment firm 
+              founded by six German entrepreneurs with a passion 
+              for innovation and a focus on bringing German values 
+              to the Vietnam
             </p>
           </div>
           <div className="offcanva-btn">

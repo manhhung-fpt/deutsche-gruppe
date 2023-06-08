@@ -6,8 +6,8 @@ const menu_data = [
     link: '/',
     submenus: [
       { title: 'Home Style 1', link: '/' },
-      { title: 'Home Style 2', link: '/home-2' },
-      { title: 'Home Style 3', link: '/home-3' },
+      { title: 'Home Style 2', link: '/' },
+      { title: 'Home Style 3', link: '/' },
     ]
   },
   {
