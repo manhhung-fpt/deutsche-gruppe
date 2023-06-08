@@ -1,0 +1,31 @@
+{
+    "slider":[
+        {
+            "id": 1,
+            "title": "Welcome to Deutsche Gruppe LLC!",
+            "subTitle1": "WE ARE",
+            "subTitle2": "DEUTSCHE GRUPPE",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/Germany-tower.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg.jpg"
+
+        },
+        {
+            "id": 3,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg-1.jpg"
+
+        }
+    ]
+}
